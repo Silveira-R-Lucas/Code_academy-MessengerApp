@@ -1,24 +1,18 @@
-# README
+README
+Esta é minha Solução para o exercício proposto em rails pela Code Academy " Messenger App " ! 🌐
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+para visualizar é necessário instalar o Ruby juntamente com o rails na sua máquina Ruby
 
-Things you may want to cover:
+aqui tem um ótimo ->>> Tutorial 📜
 
-* Ruby version
+após configuração e instalação 🛠️ :
 
-* System dependencies
+Abrir o terminal 🖥️
 
-* Configuration
+Acessar o diretório dos arquivos 📦
 
-* Database creation
+Digitar "rails server" ⌨️
 
-* Database initialization
+Abrir o navegador e digitar "localhost:3000/messages" 🌐
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Espero ter ajudado ! 🤙
